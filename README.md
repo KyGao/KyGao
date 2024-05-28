@@ -8,6 +8,6 @@
   - Website: https://kygao.github.io
   - Email: im_kai@hust.edu.cn
 
-![](https://github-readme-stats.vercel.app/api?username=KaiyuanGao&count_private=true&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=KyGao&count_private=true&show_icons=true&theme=transparent)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyuanGao&layout=compact&hide=javascript,html,c,css,scss,typescript,xml)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=KyGao&layout=compact&hide=javascript,html,c,css,scss,typescript,xml)](https://github.com/anuraghazra/github-readme-stats)
